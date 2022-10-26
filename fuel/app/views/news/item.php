@@ -3,7 +3,7 @@
 <p class="new-date">
     <?= date('d.m.Y H:i', strtotime($new->date)); ?>
 </p>
-<img src="<?= $new->img; ?>" />
+<img src="<?= $new->img; ?>" class="img-fluid" />
 <p class="mt-3">
     <?= $new->body; ?>
 </p>
