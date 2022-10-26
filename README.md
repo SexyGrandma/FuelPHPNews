@@ -1,4 +1,9 @@
-# FuelPHP
+# Сайт новостей на FuelPHP
+
+Демо:
+[Открыть демо](http://news.borgwarner.ru/)
+
+## FuelPHP
 
 * Version: 1.9 [under development]
 * [Website](https://fuelphp.com/)
