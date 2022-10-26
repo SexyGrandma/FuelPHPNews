@@ -1,0 +1,18 @@
+.card-title.new-list-title {
+    white-space: nowrap;
+    overflow:hidden;
+}
+
+.card-text.new-list-body {
+    height:50px;
+    overflow:hidden;
+}
+
+.new-date {
+    color:#999999;
+    font-size: .8rem;
+}
+
+.text-right {
+    text-align: right;
+}
