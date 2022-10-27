@@ -37,23 +37,4 @@ class Controller_News_Index extends Controller_News_Base
         $this->template->content = View::forge('news/index', $data, false);
     }
 
-
-
-    /*public function action_index()
-    {
-        $news = Model_New::find('all', array(
-            'order_by' => array('date' => 'desc'),
-        ));
-        $data = array(
-            'news' => $news
-        );
-        $this->template->title = 'Новости';
-        $this->template->content = View::forge('news/index', $data, false);
-    }*/
-
-
-
-
-
-
 }

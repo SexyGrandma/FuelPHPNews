@@ -28,5 +28,4 @@ class Controller_News_Item extends Controller_News_Base
         $this->template->content = View::forge('news/item', $data, false);
     }
 
-
 }

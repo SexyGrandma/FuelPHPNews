@@ -19,5 +19,4 @@ class Controller_News_Truncate extends Controller
         Response::redirect('/');
     }
 
-
 }
