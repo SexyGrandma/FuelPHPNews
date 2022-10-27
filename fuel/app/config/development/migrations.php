@@ -7,6 +7,7 @@ return array(
       'default' => 
       array(
         0 => '001_create_news_table',
+        1 => '002_create_index_link_on_news_table',
       ),
     ),
     'module' => 
