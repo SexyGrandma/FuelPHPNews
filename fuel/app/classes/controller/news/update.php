@@ -48,16 +48,4 @@ class Controller_News_Update extends Controller
         Response::redirect('/');
     }
 
-    /**
-     * Удаляет все новости
-     */
-    public function action_truncate() {
-        // Очищаем таблицу news
-        \DBUtil::truncate_table('news');
-
-        // Возвращаемся на предыдущую страницу
-        Response::redirect('/');
-    }
-
-
 }

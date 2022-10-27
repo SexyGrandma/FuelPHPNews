@@ -55,7 +55,7 @@
     <!-- Jumbotron -->
     <div class="p-3 text-center bg-light">
         <h1 class="mb-3 h2">Управление новостями</h1>
-        <a class="btn btn-primary m-2" href="/news/update/truncate/" role="button">Удалить все</a>
+        <a class="btn btn-primary m-2" href="/news/truncate/" role="button">Удалить все</a>
         <a class="btn btn-primary m-2" href="/news/update/">Загрузить новые</a>
     </div>
     <!-- Jumbotron -->
